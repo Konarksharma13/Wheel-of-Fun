@@ -1,6 +1,7 @@
 # 🎡 Wheel of Fun
 
-**Wheel of Fun** is a playful spin wheel built with **HTML, CSS, and JavaScript** to add a spark of joy to boring office breaks. Whenever you have a few free minutes, spin the wheel and let it pick a fun micro-task for you — from grabbing coffee to chatting with a colleague or taking a quick walk.
+**Wheel of Fun** is a playful spin wheel built with **HTML, CSS, and JavaScript** to add a spark of joy to boring office breaks. Whenever you have a few free minutes, spin the wheel and let it pick a fun micro-task for you — from grabbing coffee to chatting with a colleague or taking a quick walk.  
+[Wheel of Fun](https://konarksharma13.github.io/Wheel-of-Fun/)
 
 ### Features
 
@@ -14,7 +15,7 @@
 
 1. **Clone this repo**
    ```bash
-   git clone https://github.com/yourusername/wheel-of-fun.git
+   git clone https://github.com/konarksharma13/wheel-of-fun.git
    cd wheel-of-fun
 2. Open index.html in your browser.
 3. Click Spin and enjoy your surprise break task!
